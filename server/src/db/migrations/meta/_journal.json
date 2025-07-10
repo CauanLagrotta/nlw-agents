@@ -15,6 +15,13 @@
       "when": 1751994516938,
       "tag": "0001_silky_manta",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752154966499,
+      "tag": "0002_silly_omega_sentinel",
+      "breakpoints": true
     }
   ]
 }

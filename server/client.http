@@ -32,10 +32,10 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 # Create question
 # @name createQuestion
 
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/2d1a372c-9ab7-4d53-adfe-e8b3b9185d16/questions
 Content-Type: application/json
 
 {
-  "question": "Question 1"
+  "question": "E comer verduras todos os dias faz bem?"
 }
 
